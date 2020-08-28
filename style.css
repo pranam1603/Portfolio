@@ -251,7 +251,7 @@ h2{
 
 .items li {
 	display: inline-block;
-	padding: 5px 0px 5px 23px;
+	padding: 5px 0px 5px 0px;
 }
 
 .itemsContainer {
