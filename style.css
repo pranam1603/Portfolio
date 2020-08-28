@@ -441,6 +441,7 @@ width: 250px;
 text-align: center;
 display: inline-block;
 color:white;
+margin-top: 10px;
 /* font-size: 1.5em; */
 }
 
@@ -495,3 +496,4 @@ line-height: 20px;
     width: 358px;
     margin-left: 17px
 }
+
