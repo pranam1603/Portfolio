@@ -1,8 +1,10 @@
 body{
-background-color: white;
+background-color: #fceae8;
 color: #333;
 letter-spacing: 1px;
 font-size: 14px;
+margin: 0;
+padding: 0;
 }
 
 .overlay{
@@ -11,6 +13,10 @@ font-size: 14px;
     z-index: 3;
     position: absolute;
     background-color: rgba(0, 0, 0, 0.4);
+}
+
+#head{
+    width: 681px;
 }
 
 .slides-navigation{
@@ -41,7 +47,7 @@ img{
 }
 
 .titleMessage{
-    margin-top: -125px;
+    margin-top: -176px;
     position: absolute;
     z-index: 5;
     text-align: center;
@@ -59,7 +65,7 @@ img{
 
 .titleMessage .heading .main{
     font-size: 50px;
-    /* margin-bottom: 25px; */
+    margin-bottom: 25px;
     text-transform: uppercase;
     font-weight: 300;
 
@@ -245,7 +251,7 @@ h2{
 
 .items li {
 	display: inline-block;
-	padding: 5px;
+	padding: 5px 0px 5px 45px;
 }
 
 .itemsContainer {
@@ -396,7 +402,7 @@ h5{
 }
 
 .websites{
-    margin: 0px 45px 20px 45px;
+    margin: 0px 0px 20px 0px;
 
 }
 
@@ -449,9 +455,10 @@ color:white;
 
 }
 
-#puranam{
+#purana{
     font-size: 50px; 
-    font-family: Lobster;
+    font-family:Lobster ;
+    margin-top: 20px
 }
 
 #p{
@@ -467,15 +474,24 @@ line-height: 20px;
 }
 
 .yash{
-    padding-left: 450px;
+    padding-left: 321px;
     color:black;
     font-weight:900;
 }
 
 #contacts{
-    height:120px;
+    height:140px;
 }
 
 .heading h2{
-        margin-top: 40px;
+        margin-top: -20px;
+}
+
+.sqquare{
+    margin-left: 77px;
+}
+
+.imgg{
+    width: 358px;
+    margin-left: 17px
 }
